@@ -10,7 +10,7 @@ function Mover(m, x, y){
   this.stroW = 1;
   this.stro = null;
 
-  this.setColot = function(c){
+  this.setColor = function(c){
     this.col = c;
   }
 
